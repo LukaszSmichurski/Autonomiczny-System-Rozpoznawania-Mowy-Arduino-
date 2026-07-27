@@ -1,6 +1,6 @@
 # Autonomiczny System Rozpoznawania Mowy (Arduino)
 
-Zaawansowany system rozpoznawania poleceń głosowych działający w pełni autonomicznie na mikrokontrolerze[cite: 2]. Układ próbkuje dźwięk z mikrofonu, przetwarza go za pomocą cyfrowych filtrów pasmowych i analizy przejść przez zero, a następnie porównuje z wgranymi wzorcami, wyświetlając wynik na ekranie OLED[cite: 2].
+Zaawansowany system rozpoznawania poleceń głosowych działający w pełni autonomicznie na mikrokontrolerze. Układ próbkuje dźwięk z mikrofonu, przetwarza go za pomocą cyfrowych filtrów pasmowych i analizy przejść przez zero, a następnie porównuje z wgranymi wzorcami, wyświetlając wynik na ekranie OLED.
 
 ---
 
@@ -10,7 +10,6 @@ Zaawansowany system rozpoznawania poleceń głosowych działający w pełni auto
 * **Modół mikrofonu** (z regulacją wzmocnienia i offsetem DC)
 * **Wyświetlacz OLED** (I2C) do prezentacji komunikatów i wyniku
 * **Elementy bierne**: Rezystory (2k2), kondensator (100n)
-* 
 ---
 
 ## Koncepcja działania
