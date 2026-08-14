@@ -6,21 +6,18 @@ System rozpoznawania wyrazów działający w pełni autonomicznie na Arduino. Uk
 
 ---
 
-## 📸 Wygląd i schemat układu
+## 📸 Zdjęcie prototypu
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <strong>Zdjęcie prototypu</strong><br><br>
-        <img src="./zdjecie_ukladu_.png" alt="Zdjęcie prototypu" width="100%" style="max-width: 400px; border-radius: 8px;">
-      </td>
-      <td align="center" width="50%">
-        <strong>Schemat ideowy</strong><br><br>
-        <img src="./scheamt_ukladu.png" alt="Schemat układu" width="100%" style="max-width: 400px; border-radius: 8px;">
-      </td>
-    </tr>
-  </table>
+  <img src="./zdjecie_ukladu_.png" alt="Zdjęcie prototypu" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+---
+
+## 🔌 Schemat ideowy
+
+<div align="center">
+  <img src="./scheamt_ukladu.png" alt="Schemat układu" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
@@ -74,21 +71,18 @@ A word recognition system operating fully autonomously on an Arduino. The device
 
 ---
 
-## 📸 Appearance and Circuit Diagram
+## 📸 Prototype Photo
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <strong>Prototype Photo</strong><br><br>
-        <img src="./zdjecie_ukladu_.png" alt="Prototype Photo" width="100%" style="max-width: 400px; border-radius: 8px;">
-      </td>
-      <td align="center" width="50%">
-        <strong>Circuit Diagram</strong><br><br>
-        <img src="./scheamt_ukladu.png" alt="Circuit Diagram" width="100%" style="max-width: 400px; border-radius: 8px;">
-      </td>
-    </tr>
-  </table>
+  <img src="./zdjecie_ukladu_.png" alt="Prototype Photo" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+---
+
+## 🔌 Circuit Diagram
+
+<div align="center">
+  <img src="./scheamt_ukladu.png" alt="Circuit Diagram" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
